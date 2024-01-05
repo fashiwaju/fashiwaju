@@ -11,3 +11,55 @@
     <img alt= ""class ="img-circle" src="https://IMG_0034">
      <p> Ifeoluwa Fashogbon </p>
   </div>
+
+<div class = "section">
+ <h1><span>about me</span></h1>
+  <p> I'm <strong>Ifeoluwa Fashogbon</strong>. Coding has changed my world. It's not just about apps, learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a good job. And I learned most of it at <i>sololearn</i> where they build your self-esteem and keep you motivated. i tend to become a software developer as soon as i master all the required programming languages. </p>
+
+   <p class= "quote">"if I shoot at the sun, I may hit a star"</p>
+
+<div class= "section">
+  <h1><span> My Skills </span></h1>
+		<ul>
+			<li> HTML <br/>
+				<progress min= "0" max="100" value="80"> </progress>
+			</li>
+			<li> SQL <br/>
+			  <progress min= "0" max="100" value="70"> </progress>
+			</li>
+			<li> Python <br/>
+				<progress min= "0" max="100" value="50"> </progress>
+			</li>
+			<li> JavaScript <br/>
+				<progress min="0" max="100" value="50"> </progress>
+			 </li>
+		</ul>
+</div>
+
+<div class= "section">
+<h1><span>Contact Me</span></h1>
+
+	<svg class= "face" height = "100" width="100">
+		<circle cx="50" cy="50" r="50" fill="#FDD835"/>
+		<circle cx="30" cy="30" r="10" fill="#FFFFFF" />
+		<circle cx="70" cy="30" r="10" fill ="#FFFFFF" />
+		<circle cx="30" cy="30" r="5" fill="#000000" />
+		<cirlce cx="70" cy="30" r="5" fill="#000000" />
+
+		<path d= "M 30 70 q 20 20 40  0" stroke= "#FFFFFF" stroke-width = ="5" fill="none" />
+		</svg>
+
+	<form>
+		<input name = "name" placeholder = "Name" type= "text" required /> <br/>
+		<input name = "email" placeholder = "Email" type= "email" required /> <br/>
+			<textarea name="message" placeholder="Message" required > </textarea>
+		<input type ="submit" value= "SEND" class= "submit" />
+		</form>
+</div>
+<div class = "copyright"> &copy; Fashiwaju. All rights reserved.
+</div>
+	</body>
+</html>
+
+
+  
