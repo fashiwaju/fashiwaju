@@ -6,4 +6,17 @@
  </head>
 <body>
  <!-- header start -->
-  <div id= "header"
+  <div id= "header" class = "section">
+<img alt = "class = "img-circle" src = "img_0034">
+<p> Ifeoluwa Fashogbon </p>
+</div>
+
+<div class = "section">
+<h1><span>About Me</span><h1>
+<p>
+Hey! I'm <strong>Ifeoluwa Fashogbon</strong>. Coding has changed my world. It's not just about apps, learning to code gave me <i>problem-solving skills</i> and a way to communicate to other techies on a technical level. I can also develop websites and use my coding skills to get connected to equal minds.
+</p>
+<p class = "quote"> "let's make the world a better place through technology"
+</div>
+
+
