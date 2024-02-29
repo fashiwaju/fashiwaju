@@ -1,0 +1,17 @@
+import time
+currentTime = time.time()
+print(currentTime)
+#obtaining total seconds since midnight, Jan 1, 1970
+
+totalSeconds = int(currentTime)
+currentSecond = totalSeconds % 60
+print(currentSecond)
+
+totalMinutes = totalSeconds//60
+currentMinute = totalMinutes % 60
+print(currentMinute)
+
+totalHours = totalMinutes//60
+currentHour = totalHours % 24
+
+print("Current time is", currentHour, ":", currentMinute, ":", currentSecond, "GMT")
